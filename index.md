@@ -65,7 +65,7 @@ Hi there! Thats me. I am an Australian born overseas and raised in an Indonesian
 				<h2>Ideal Job</h2>
 			</header>	
 			<img src="./img/Job.PNG">
-			<p>This job revolves around identifying issues in the Telstra network such as gaps in coverage or security flaws and routinely participating in the maintenance of the systems. The job also involves the collection of documentation and the delivering of reports in terms of cyber security.</p>
+			<p>This job revolves around identifying issues in the Telstra network such as gaps in coverage or security flaws and routinely participating in the maintenance of the systems. The job also involves the collection of documentation and the delivering of reports in terms of cyber security. This is appealing because it lets me engage in a variety of tasks that cover a very wide network and affords me the opportunity to develop my cyber security skills and strengthen my documentation skills.</p>
 			<p>The role requires the ability to work in a team, experience in IT operations, tertiary or vocational education. You must also know how to use SIEM technologies and have good communication skills, and genuine interest in cyber security, as well as good critical thinking.</p>
 			<p>To obtain this job I will finish my degree in IT and learn how to use SIEM technologies.</p>
 			</section>
