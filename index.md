@@ -6,13 +6,29 @@
 
   <title>My Student Website</title>
   <meta name="description" content="My Student Website">
-  <meta name="author" content="Travis">
+  <meta name="author" content="E07593">
 
   <link rel="stylesheet" href="css/styles.css?v=1.0">
 
 </head>
 
 <body>
+<!-- Wrap -->
+	<div id="wrapper">
+		<!-- Head -->
+			<header id="myHeader">  
+			  <h1>Welcome to my Profile</h1>
+			  <p>This is one of the most basic webpages, barebones HTML5!</p>
+			  <p>There are quite a number of things that you could try doing...</p>
+			</header>
+			  
+			  <ul>
+				<li>Change the title for one...</li>
+				<li>Add some elements and images!</li>
+			  </ul>
+
+		<!-- Main -->
+		<div id="main">
 		<!-- Image -->
 			<img src="img/20210205_164223.jpg">
 		<!-- Intro Section-->
