@@ -126,10 +126,5 @@ Hi there! Thats me. I am an Australian born overseas and raised in an Indonesian
 				 </section>
 			</section>
 		
-		</div>
 		    <footer>
 		        <p>Bye.<p>
-		    </footer>  
-	</div>
-</body>
-</html>
