@@ -32,7 +32,7 @@ Hi there! Thats me. I am an Australian born overseas and raised in an Indonesian
 			    <section>
 				    <img src="./img/16 persoonalities.PNG">
 				    <img src="./img/big5.PNG">
-				    <img src="./img/learning.PNG">
+				    <img src="./img/Learning.PNG">
 					<p>As an INTP-T, I am more likely to look at the finer details and break down problems to find solutions. However, I am more likely to question my decisions and change my mind quicker. I am also a hands-on learner with a high level of a regular level of conscientiousness, which means I can understand other people to a normal degree. However, my introversion and extroversion are contradicting in two of the results.</p>
 					<p>I believe I would fit well in a team as a planner and analyst. I would probably not be a good fit for leadership roles because of my turbulent personality but I would fit well in a team that can let me do my work and contribute without the need to make decisions on behalf of the group. I may be more silent and less interactive with my group if left to do work.</p>
 					<p>When looking for a group I would want an extroverted person to take the lead and organise workloads for the group members. I would also be looking for someone with a high level conscientiousness, that understands clearly what people desire in IT products. I would also look for someone with a great sense of aesthetics to cover for the look of projects.</p>
@@ -64,7 +64,7 @@ Hi there! Thats me. I am an Australian born overseas and raised in an Indonesian
 			<header class="sectionHeading">
 				<h2>Ideal Job</h2>
 			</header>	
-			<img src="./img/job.PNG">
+			<img src="./img/Job.PNG">
 			<p>This job revolves around identifying issues in the Telstra network such as gaps in coverage or security flaws and routinely participating in the maintenance of the systems. The job also involves the collection of documentation and the delivering of reports in terms of cyber security.</p>
 			<p>The role requires the ability to work in a team, experience in IT operations, tertiary or vocational education. You must also know how to use SIEM technologies and have good communication skills, and genuine interest in cyber security, as well as good critical thinking.</p>
 			<p>To obtain this job I will finish my degree in IT and learn how to use SIEM technologies.</p>
