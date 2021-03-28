@@ -2,9 +2,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="description" content="My Student Website">
-  <meta name="author" content="E07593">
-
-  <link rel="stylesheet" href="css/styles.css?v=1.0">
+  <meta name="author" content="Travis">
 
 </head>
 
