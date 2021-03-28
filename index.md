@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 
 <html lang="en">
 <head>
@@ -127,11 +127,9 @@ Hi there! Thats me. I am an Australian born overseas and raised in an Indonesian
 			</section>
 		
 		</div>
-	
-	<!-- Footer -->
-		<footer>
-		  <p>And that's it... could put ownership details down here in the footer. Maybe contact details. etc..<p>
-		</footer>  
+		    <footer>
+		        <p>Bye.<p>
+		    </footer>  
 	</div>
 </body>
 </html>
