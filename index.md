@@ -18,7 +18,7 @@
 			<header class="sectionHeading">
 				<h2>Introduction</h2>
 			</header>
-			<img src="img/20210205_164223.jpg">
+			<img src="./img/20210205_164223.jpg">
 			<p>Travis Lim, S3898660, s3898660@student.rmit.edu.au.
 Hi there! Thats me. I am an Australian born overseas and raised in an Indonesian household. I speak english and have completed primary and secondary education at Good News Lutheran College. I graduated from secondary education last year in 2020 and have received an ATAR. 
 </p>
