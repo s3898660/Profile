@@ -2,8 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-
-  <title>My Student Website</title>
   <meta name="description" content="My Student Website">
   <meta name="author" content="E07593">
 
