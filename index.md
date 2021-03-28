@@ -6,18 +6,13 @@
 
   <title>My Student Website</title>
   <meta name="description" content="My Student Website">
-  <meta name="author" content="E07593">
+  <meta name="author" content="Travis">
 
   <link rel="stylesheet" href="css/styles.css?v=1.0">
 
 </head>
 
 <body>
-<!-- Wrap -->
-	<div id="wrapper">
-		<!-- Head -->						  
-		<!-- Main -->
-		<div id="main">
 		<!-- Image -->
 			<img src="img/20210205_164223.jpg">
 		<!-- Intro Section-->
