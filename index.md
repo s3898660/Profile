@@ -15,14 +15,7 @@
 <body>
 <!-- Wrap -->
 	<div id="wrapper">
-		<!-- Head -->
-			
-			  
-			  <ul>
-				<li>Change the title for one...</li>
-				<li>Add some elements and images!</li>
-			  </ul>
-
+		<!-- Head -->						  
 		<!-- Main -->
 		<div id="main">
 		<!-- Image -->
