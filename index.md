@@ -15,6 +15,18 @@
 <body>
 <!-- Wrap -->
 	<div id="wrapper">
+		<!-- Head -->
+			<header id="myHeader">  
+			  <h1>Welcome to my Profile</h1>
+			  <p>This is one of the most basic webpages, barebones HTML5!</p>
+			  <p>There are quite a number of things that you could try doing...</p>
+			</header>
+			  
+			  <ul>
+				<li>Change the title for one...</li>
+				<li>Add some elements and images!</li>
+			  </ul>
+
 		<!-- Main -->
 		<div id="main">
 		<!-- Image -->
@@ -114,5 +126,10 @@ Hi there! Thats me. I am an Australian born overseas and raised in an Indonesian
 				 </section>
 			</section>
 		
+		</div>
 		    <footer>
 		        <p>Bye.<p>
+		    </footer>  
+	</div>
+</body>
+</html>
